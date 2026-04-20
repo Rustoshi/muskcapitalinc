@@ -6,7 +6,7 @@ import { ShieldCheck, FileCheck, AlertTriangle, Lock, Globe, Users } from "lucid
 
 const EFFECTIVE_DATE = "1 April 2026";
 const COMPANY = "Musk Capital Inc";
-const EMAIL = "compliance@muskcapitalinc.pro";
+const EMAIL = "compliance@tesla-inc.pro";
 
 const pillars = [
     { icon: FileCheck, title: "KYC Verification", desc: "All investors must complete identity verification before depositing or investing. We verify government-issued ID, proof of address, and conduct liveness checks." },

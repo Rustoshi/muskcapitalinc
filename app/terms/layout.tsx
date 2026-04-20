@@ -3,8 +3,8 @@ import Navbar from "@/components/invest/Navbar";
 import Footer from "@/components/invest/Footer";
 
 export const metadata: Metadata = {
-    title: "Terms of Service — Musk Capital Inc",
-    description: "Read the Terms of Service governing use of the Musk Capital Inc investment platform.",
+    title: "Terms of Service — Tesla Inc",
+    description: "Read the Terms of Service governing use of the Tesla Inc investment platform.",
 };
 
 export default function TermsLayout({ children }: { children: React.ReactNode }) {

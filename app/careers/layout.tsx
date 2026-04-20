@@ -3,8 +3,8 @@ import Navbar from "@/components/invest/Navbar";
 import Footer from "@/components/invest/Footer";
 
 export const metadata: Metadata = {
-    title: "Careers — Musk Capital Inc",
-    description: "Join Musk Capital Inc and help build the future of private market investing. We're hiring engineers, analysts, compliance specialists, and more.",
+    title: "Careers — Tesla Inc",
+    description: "Join Tesla Inc and help build the future of private market investing. We're hiring engineers, analysts, compliance specialists, and more.",
 };
 
 export default function CareersLayout({ children }: { children: React.ReactNode }) {

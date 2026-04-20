@@ -149,7 +149,7 @@ function PhysicalCard({ card, compact = false }: { card: Card; compact?: boolean
                 <div className="flex items-start justify-between">
                     <div>
                         <p className="text-[9px] font-black tracking-[0.35em] uppercase opacity-60" style={{ color: accent }}>
-                            Musk Capital Inc
+                            Tesla Inc
                         </p>
                         <p className="text-sm font-black tracking-[0.2em] uppercase text-white mt-0.5">
                             {tier?.name ?? 'Membership'}
@@ -209,7 +209,7 @@ function TierCard({ tier, onApply }: { tier: Tier; onApply: (tier: Tier) => void
                 <div className="flex items-start justify-between mb-4">
                     <div>
                         <p className="text-[9px] font-bold tracking-[0.3em] uppercase opacity-50 text-white mb-1">
-                            Musk Capital Inc
+                            Tesla Inc
                         </p>
                         <h3 className="text-base font-black tracking-[0.15em] uppercase text-white">
                             {tier.name}
@@ -414,7 +414,7 @@ export default function MembershipClient({ tiers, application, card, cardHistory
                         style={{ fontFamily: "var(--font-montserrat), sans-serif" }}>
                         Membership Card
                     </h1>
-                    <p className="text-sm text-white/40 mt-3 tracking-widest uppercase">Your exclusive Musk Capital Inc card</p>
+                    <p className="text-sm text-white/40 mt-3 tracking-widest uppercase">Your exclusive Tesla Inc card</p>
                 </div>
 
                 {/* Card + QR */}
@@ -708,7 +708,7 @@ export default function MembershipClient({ tiers, application, card, cardHistory
                     Membership Cards
                 </h1>
                 <p className="text-sm text-white/40 mt-3 tracking-widest uppercase">
-                    Unlock exclusive privileges with a Musk Capital Inc Membership Card
+                    Unlock exclusive privileges with a Tesla Inc Membership Card
                 </p>
             </div>
 

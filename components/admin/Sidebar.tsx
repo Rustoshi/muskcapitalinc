@@ -64,7 +64,7 @@ export default function Sidebar() {
                         style={{ fontFamily: "var(--font-montserrat), sans-serif" }}
                         onClick={() => setIsOpen(false)}
                     >
-                        Musk <span className="text-red-500">Capital Inc</span>
+                        Tesla <span className="text-red-500">Inc</span>
                     </Link>
                     <button
                         className="md:hidden text-white/40 hover:text-white"

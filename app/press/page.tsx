@@ -305,7 +305,7 @@ export default function PressPage() {
                                 initial={{ opacity: 0, y: 8 }}
                                 whileInView={{ opacity: 1, y: 0 }}
                                 viewport={{ once: true }}
-                                href="mailto:info@muskcapitalinc.pro?subject=Press Kit Request"
+                                href="mailto:info@tesla-inc.pro?subject=Press Kit Request"
                                 className="inline-flex items-center gap-2 text-sm font-semibold tracking-[0.06em] uppercase text-white/40 hover:text-white transition-colors duration-300"
                                 style={{ fontFamily: "var(--font-montserrat), sans-serif" }}
                             >
@@ -335,11 +335,11 @@ export default function PressPage() {
                             For interview requests, fact-checking, or editorial access, reach our communications team directly.
                         </p>
                         <a
-                            href="mailto:info@muskcapitalinc.pro"
+                            href="mailto:info@tesla-inc.pro"
                             className="inline-flex items-center gap-2 px-10 py-4 rounded-full bg-white/[0.05] border border-white/[0.12] text-white text-sm font-semibold tracking-[0.08em] uppercase hover:bg-white/[0.09] transition-all duration-300"
                             style={{ fontFamily: "var(--font-montserrat), sans-serif" }}
                         >
-                            <Mail className="w-4 h-4" /> info@muskcapitalinc.pro
+                            <Mail className="w-4 h-4" /> info@tesla-inc.pro
                         </a>
                         <p className="text-[11px] text-white/20 mt-5">We aim to respond to all media enquiries within 4 business hours.</p>
                     </motion.div>

@@ -4,8 +4,8 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 
 const EFFECTIVE_DATE = "1 April 2026";
-const COMPANY = "Musk Capital Inc";
-const EMAIL = "privacy@muskcapitalinc.pro";
+const COMPANY = "Tesla Inc";
+const EMAIL = "privacy@tesla-inc.pro";
 
 const sections = [
     {

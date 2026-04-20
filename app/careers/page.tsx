@@ -68,7 +68,7 @@ export default function CareersPage() {
                         transition={{ duration: 0.7, delay: 0.25 }}
                         className="text-base sm:text-lg text-white/50 font-light max-w-2xl mx-auto leading-relaxed"
                     >
-                        Musk Capital Inc is a global team of engineers, analysts, compliance specialists, and operators building the platform that gives everyone access to private equity in the world's most consequential companies.
+                        Tesla Inc is a global team of engineers, analysts, compliance specialists, and operators building the platform that gives everyone access to private equity in the world's most consequential companies.
                     </motion.p>
                 </div>
             </section>
@@ -150,7 +150,7 @@ export default function CareersPage() {
                             We are not actively hiring at the moment. Check back here for future opportunities, or send a speculative application and we'll keep your details on file.
                         </p>
                         <a
-                            href="mailto:careers@muskcapitalinc.pro?subject=Speculative Application"
+                            href="mailto:careers@tesla-inc.pro?subject=Speculative Application"
                             className="mt-8 inline-flex items-center gap-2 px-8 py-3.5 rounded-full border border-white/[0.12] text-white/50 text-sm font-semibold tracking-[0.08em] uppercase hover:border-white/30 hover:text-white transition-all duration-300"
                             style={{ fontFamily: "var(--font-montserrat), sans-serif" }}
                         >

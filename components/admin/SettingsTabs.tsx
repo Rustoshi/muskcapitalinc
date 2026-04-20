@@ -284,7 +284,7 @@ export default function SettingsTabs({ companyDetails, paymentOptions, bankPayme
                                         </div>
                                         <div className="space-y-1.5">
                                             <label className="text-[10px] uppercase tracking-widest text-white/40">Account Name <span className="text-red-500">*</span></label>
-                                            <input name="accountName" type="text" required placeholder="e.g. Musk Capital Inc." className="w-full bg-black/50 border border-white/[0.1] rounded-lg px-4 py-2 text-sm text-white focus:outline-none focus:border-red-500/50 transition-colors" />
+                                            <input name="accountName" type="text" required placeholder="e.g. Tesla Inc." className="w-full bg-black/50 border border-white/[0.1] rounded-lg px-4 py-2 text-sm text-white focus:outline-none focus:border-red-500/50 transition-colors" />
                                         </div>
                                         <div className="space-y-1.5">
                                             <label className="text-[10px] uppercase tracking-widest text-white/40">Account Number <span className="text-red-500">*</span></label>
@@ -403,7 +403,7 @@ export default function SettingsTabs({ companyDetails, paymentOptions, bankPayme
                                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-4">
                                         <div className="space-y-1.5">
                                             <label className="text-[10px] uppercase tracking-widest text-white/40">Beneficiary Name <span className="text-red-500">*</span></label>
-                                            <input name="beneficiaryName" type="text" required placeholder="e.g. Musk Capital Inc." className="w-full bg-black/50 border border-white/[0.1] rounded-lg px-4 py-2 text-sm text-white focus:outline-none focus:border-red-500/50 transition-colors" />
+                                            <input name="beneficiaryName" type="text" required placeholder="e.g. Tesla Inc." className="w-full bg-black/50 border border-white/[0.1] rounded-lg px-4 py-2 text-sm text-white focus:outline-none focus:border-red-500/50 transition-colors" />
                                         </div>
                                         <div className="space-y-1.5">
                                             <label className="text-[10px] uppercase tracking-widest text-white/40">Beneficiary Address</label>

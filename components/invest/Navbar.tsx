@@ -38,7 +38,7 @@ export default function Navbar() {
                     className="font-[var(--font-montserrat)] text-base sm:text-lg font-bold tracking-[0.25em] uppercase text-white hover:opacity-80 transition-opacity"
                     style={{ fontFamily: "var(--font-montserrat), sans-serif" }}
                 >
-                    Musk <span className="text-red-500">Capital Inc</span>
+                    Tesla <span className="text-red-500">Inc</span>
                 </Link>
 
                 {/* Center Links — desktop */}

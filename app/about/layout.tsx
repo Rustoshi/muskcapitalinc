@@ -3,8 +3,8 @@ import Navbar from "@/components/invest/Navbar";
 import Footer from "@/components/invest/Footer";
 
 export const metadata: Metadata = {
-    title: "About Us — Musk Capital Inc",
-    description: "Musk Capital Inc is an AI-powered private equity and trading platform giving everyday investors structured access to SpaceX, Neuralink, xAI, and more.",
+    title: "About Us — Tesla Inc",
+    description: "Tesla Inc is an AI-powered private equity and trading platform giving everyday investors structured access to SpaceX, Neuralink, xAI, and more.",
 };
 
 export default function AboutLayout({ children }: { children: React.ReactNode }) {

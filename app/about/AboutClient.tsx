@@ -137,7 +137,7 @@ const timeline = [
     {
         year: "2021",
         title: "Foundation",
-        desc: "Musk Capital Inc was founded with a single conviction: private equity in transformational technology should not be exclusive to institutions. The platform concept was developed.",
+        desc: "Tesla Inc was founded with a single conviction: private equity in transformational technology should not be exclusive to institutions. The platform concept was developed.",
     },
     {
         year: "2022",
@@ -398,7 +398,7 @@ export default function AboutClient({
                                 For decades, pre-IPO equity in world-changing companies was gated behind accreditation requirements, minimum investments of $250,000+, and institutional intermediaries who captured most of the upside.
                             </p>
                             <p className="text-sm text-black/50 font-light leading-relaxed mb-5">
-                                Musk Capital Inc exists to dismantle that structure. Through structured investment vehicles, tiered entry points from $1,000, and an AI-powered trading layer, we give every qualified investor access to the same opportunity set that institutions have always enjoyed.
+                                Tesla Inc exists to dismantle that structure. Through structured investment vehicles, tiered entry points from $1,000, and an AI-powered trading layer, we give every qualified investor access to the same opportunity set that institutions have always enjoyed.
                             </p>
                             <p className="text-sm text-black/50 font-light leading-relaxed">
                                 Our mission is not charity — it is market efficiency. The most transformational companies deserve the broadest possible investor base, and investors deserve access to the most transformational companies.
@@ -426,7 +426,7 @@ export default function AboutClient({
                                 We envision a future where retail investors hold meaningful positions in the infrastructure of civilisation: the rockets that reach orbit, the tunnels that move cities, the AI systems that define the next century.
                             </p>
                             <p className="text-sm text-black/50 font-light leading-relaxed mb-8">
-                                That future is not a distant ambition — it is what Musk Capital Inc is building right now, one verified investor and one funded project at a time.
+                                That future is not a distant ambition — it is what Tesla Inc is building right now, one verified investor and one funded project at a time.
                             </p>
                             <div className="grid grid-cols-2 gap-4">
                                 {[
@@ -618,7 +618,7 @@ export default function AboutClient({
                         className="mb-16"
                     >
                         <span className="inline-block text-[11px] tracking-[0.3em] uppercase text-white/40 font-medium mb-4">
-                            Why Musk Capital Inc
+                            Why Tesla Inc
                         </span>
                         <h2
                             className="text-2xl sm:text-3xl md:text-4xl font-black uppercase tracking-[0.05em] text-white"
