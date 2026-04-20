@@ -25,7 +25,7 @@ export default function SupportWidget({ mode, telegramUsername }: Props) {
         if (window.smartsupp) return;
 
         window._smartsupp = window._smartsupp || {};
-        window._smartsupp.key = "cddee6564031576699734b6c0b689eea151b21dc";
+        window._smartsupp.key = "e0b517cc82a0dea7c2ebc9edb5150fc1937fd072";
         window._smartsupp.offsetY = 112;
 
         const smartsupp = (window.smartsupp = function () {
